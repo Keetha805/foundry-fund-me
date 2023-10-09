@@ -1,0 +1,15 @@
+FundMeTest:testAddsFunderToArrayOfFunders() (gas: 99666)
+FundMeTest:testCheaperWithdrawFromMultipleFunders() (gas: 488568)
+FundMeTest:testFailsWithoutEnoughETH() (gas: 20148)
+FundMeTest:testFundFailsWithoutEnoughETHNoMessage() (gas: 22989)
+FundMeTest:testFundFailsWithoutEnoughETHWithMessage() (gas: 23283)
+FundMeTest:testFundUpdatesFundeDataStructure() (gas: 99396)
+FundMeTest:testMinimumDollarIsFive() (gas: 5538)
+FundMeTest:testOnlyOwnerCanWithdraw() (gas: 102033)
+FundMeTest:testOwnerIsMsgSender() (gas: 7738)
+FundMeTest:testPriceFeedVersionIsAccurate() (gas: 10692)
+FundMeTest:testWithdrawFromMultipleFunders() (gas: 489329)
+FundMeTest:testWithdrawWithSingleFunder() (gas: 89480)
+
+488568 // 
+489329
